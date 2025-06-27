@@ -78,16 +78,3 @@ To run this project locally, follow these steps:
 
 ---
 
-## Application Screenshots
-
-_Note: The following are descriptions of the UI. Replace the text with actual screenshots._
-
-### Desktop View
-
-![Desktop View]
-> A full-width header with navigation, followed by a multi-field form for shortening URLs, and a results section.
-
-### Mobile View
-
-![Mobile View]
-> A single-column, responsive layout where the form fields stack vertically for easy access on smaller screens.
